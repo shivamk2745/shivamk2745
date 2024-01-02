@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img src"https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="right" alt="img"  width="400">
 
-- 🔭 I’m currently working on **Cryptocurrency website**
+- 🔭 I’m currently working on **Google Docs clone**
 
 - 🌱 I’m currently learning **Node.js**
 
